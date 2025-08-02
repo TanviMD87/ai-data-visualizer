@@ -70,6 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 - **Streamlit**: The app is built using Streamlit, an amazing tool for building data apps.
 - **Pandas & Matplotlib**: These libraries are used for data manipulation and visualization.
-- **Other Libraries**: Any other libraries used in the project (e.g., NumPy, scikit-learn) should also be acknowledged here.
+- **Other Libraries**:  NumPy, scikit-learn etc 
 
 
